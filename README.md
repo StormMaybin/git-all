@@ -1,2 +1,6 @@
-# Introduction
+# git的前世今生
+
+此篇文档以&lt;&lt;git权威指南&gt;&gt;为基础，总结git的日常操作以及实现细则。
+
+
 
